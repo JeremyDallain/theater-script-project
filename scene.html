@@ -3,28 +3,54 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
     <title>Scène</title>
     <style>
+      * {
+        box-sizing: border-box;
+      }
+      body {
+        font-family: "Roboto", serif;
+      }
       p {
         margin: 0;
+        font-size: 18px;
       }
       .replica {
-        margin-block: 10px;
+        margin-block: 15px;
+      }
+      .replica p {
+        padding: 5px;
+      }
+
+      .replica span {
+        padding: 5px;
+        font-weight: bold;
+        border-radius: 5px;
+        letter-spacing: 1px;
       }
 
       .description {
         font-style: italic;
-        color: grey;
+        color: rgb(117, 117, 117);
+      }
+      .description p {
+        font-size: 16px;
       }
 
       .before-main-caracter span,
       .before-main-caracter p {
-        background: rgb(232, 232, 232);
+        background: rgb(242, 242, 242);
       }
 
       .main-caracter span,
       .main-caracter p {
-        background: rgb(161, 210, 161);
+        background: rgb(192, 236, 192);
       }
 
       /* Cache blanc */
@@ -53,13 +79,22 @@
       #app {
         margin-bottom: 50vh; /* Marge équivalente à la hauteur du cache */
       }
+
+      .backlink {
+        text-decoration: none;
+        color: black;
+        font-size: 25px;
+        padding: 3px 5px;
+        border-radius: 30%;
+        border: 1px solid black;
+      }
     </style>
     <script type="module" src="/js/scene.js" defer></script>
   </head>
   <body>
     <div id="cache" class="hidden"></div>
     <div id="app"></div>
-    <br>
+    <br />
     <script>
       // Gestion du cache
       document.body.addEventListener("dblclick", () => {

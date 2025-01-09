@@ -7,12 +7,14 @@ loadJSON(plays)
     const params = new URLSearchParams(window.location.search);
     const playTitle = params.get('play');
     const sceneId = parseInt(params.get('id'));
-
+    
     const play = data.find(play => play["play-title"] === playTitle);
+    const role = play.role;
+    
     if (play) {
       const scene = play.scenes.find(scene => scene.id === sceneId);
       if (scene) {
-        generateSceneHTML(play["play-title"], scene);
+        generateSceneHTML(play["play-title"], scene, role);
       } else {
         displayError("Scène non trouvée.");
       }
@@ -22,11 +24,12 @@ loadJSON(plays)
   })
   .catch(error => console.error('Erreur lors du chargement des pièces :', error));
 
-function generateSceneHTML(playTitle, scene) {
+function generateSceneHTML(playTitle, scene, role) {
   const app = document.getElementById("app");
   const backLink = document.createElement("a");
   backLink.href = "index.html";
-  backLink.textContent = "⬅ Retour à l'accueil";
+  backLink.classList.add("backlink");
+  backLink.textContent = "⬅";
   app.appendChild(backLink);
 
   const title = document.createElement("h1");
@@ -34,7 +37,8 @@ function generateSceneHTML(playTitle, scene) {
   app.appendChild(title);
 
   let previousDiv = null;
-  const mainCharacter = "Philippe"; // Dynamique si nécessaire
+  
+  const mainCharacter = role;
 
   scene.script.forEach(line => {
     const div = document.createElement("div");
