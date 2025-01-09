@@ -1,0 +1,197 @@
+{
+    "title": "Scène 3",
+    "script": [
+        {
+            "caracter": "",
+            "text": "La population de Nouaillé entre sur le pré soit par jardin soit par cour, soit en traversant la foule des spectateurs"
+        },
+        {
+            "caracter": "Tous",
+            "text": "Que signifient ces billevesées au sujet d’une rançon ? Il va nous falloir payer ? Mais pour quoi faire ? Une rançon, mais pour qui ?Etc, etc"
+        },
+        {
+            "caracter": "Philippe",
+            "text": "Holà mes amis, que vous arrive-t-il et, pourquoi pareil émeuvement ?"
+        },
+        {
+            "caracter": "Paysan 1",
+            "text": "C’est que, Monseigneur, nous avons ouï dire qu’il fallait baillerune rançon pour libérer le roi."
+        },
+        {
+            "caracter": "Paysanne 1",
+            "text": "Et qui va la payer cette rançon ?"
+        },
+        {
+            "caracter": "Paysan 2",
+            "text": "Ne cherche pas, Perrine, ce sont toujours les mêmes qui vont devoir le faire… Nous !"
+        },
+        {
+            "caracter": "",
+            "text": "Brouhaha"
+        },
+        {
+            "caracter": "Paysan 3",
+            "text": "Comme si nous n’étions pas déjà suffisamment accablés de redevances"
+        },
+        {
+            "caracter": "Paysanne 2",
+            "text": "Avec toutes ces taxes, taille, octroi et gabelle, il nous reste à peine de quoi manger."
+        },
+        {
+            "caracter": "Paysan 1",
+            "text": "Et les moines de notre abbaye, avec ce que nous leur octroyons, ils peuvent bien participer à sauver notre roi !"
+        },
+        {
+            "caracter": "Moine 1",
+            "text": "C’est que, outre notre propre subsistance, nous devons aussi nous occuper des pauvres, des nécessiteux et autres pèlerins de passage."
+        },
+        {
+            "caracter": "Moine 2",
+            "text": "Sans parler des cierges, huile, et couleurs pour les enluminures qu’il nous faut acquérir."
+        },
+        {
+            "caracter": "Noble 1",
+            "text": "(plutôt suspicieux)Il m’a été dit que le sieur Flamel, en ce moment sur Nouaillé, possède un ouvrage fort intéressant confié par un inconnu."
+        },
+        {
+            "caracter": "Noble 2",
+            "text": "Oui, un livre très ancien sur l’Alchimie, et dont certains feuillets seraient en lien avec les Templiers. Il l’aurait même confié au Prieur afin qu’il l’étudie avec les moines."
+        },
+        {
+            "caracter": "Prieur",
+            "text": "C’est la vérité en effet. Avec mes frères nous cherchons des indices qui relieraient ces écrits avec le procès de Jacques de Molay, Grand Maître des Templiers, lors de la réunion du consistoire à Poitiers en 1310."
+        },
+        {
+            "caracter": "Noble 3",
+            "text": "Cela pourrait-il avoir un lien avec la richesse présumée des templiers ?"
+        },
+        {
+            "caracter": "Prieur",
+            "text": "Qui sait ! Peut-être en saurons-nous plus à la lecture de ce livre !"
+        },
+        {
+            "caracter": "Noble 1",
+            "text": "Nous avons aussi ouï dire que le Roi voulait frapper monnaie pour constituer la rançon, ce serait une bonne idée."
+        },
+        {
+            "caracter": "Noble 2",
+            "text": "Il veut même la nommer le franc, pour signifier ainsi qu’il serait libéré des Anglois"
+        },
+        {
+            "caracter": "Noble3",
+            "text": "Voilà une idée judicieuse et qui couterait peut-être moins au bas peuple."
+        },
+        {
+            "caracter": "Paysan 1",
+            "text": "Si cela doit moins me couter, je suis pour !"
+        },
+        {
+            "caracter": "Finette",
+            "text": "(S’approchant de Philippe) Prince Philippe, avez-vous souvenance de moi ? Je suis Finette."
+        },
+        {
+            "caracter": "Philippe",
+            "text": "Oui, bien sûr, même si tu as un peu changé. Assurément, je me suis mainte fois langui de toi depuis ce fâcheux 19 septembre."
+        },
+        {
+            "caracter": "Finette",
+            "text": "J’aimerais tant avoir l’heur de vous retrouver. Les missives que j’ai reçues de votre part m’ont tant ravie que je suis dans l’attente de deviser derechef avec vous, plus au calme."
+        },
+        {
+            "caracter": "Philippe",
+            "text": "Dès la nuit tombée, je serai, avec mon escorte, près du lavoir. Nous pourrons prendre le temps de nous voir tous deux tranquillement."
+        },
+        {
+            "caracter": "",
+            "text": "Flamel revient de son laboratoire énervé et invective ses apprentis."
+        },
+        {
+            "caracter": "Flamel",
+            "text": "Mais morbieu bande de cufards, m’avez-vous enfin trouvé des aides. Il doit bien y avoir ce qu’il faut parmi cette foule (en désignant les spectateurs)"
+        },
+        {
+            "caracter": "Apprenti 4",
+            "text": "C’est que… voyez-Maître …"
+        },
+        {
+            "caracter": "Apprenti 5",
+            "text": "Nous avons bien cherché mais…"
+        },
+        {
+            "caracter": "Apprenti 6",
+            "text": "Ces gens-là ne sont pas très, comment dire… disposés"
+        },
+        {
+            "caracter": "Apprenti 7",
+            "text": "Oui c’est cela, disposés. En fait, aucun d’eux ne montre de dispositions au maniement des fioles, cornues et autres instruments que vous utilisez."
+        },
+        {
+            "caracter": "Flamel",
+            "text": "Mais enfin, il n’y a rien de bien compliqué à tout cela, il suffit de faire ce que je demande."
+        },
+        {
+            "caracter": "Apprenti 8",
+            "text": "Oui justement, c’est cela …"
+        },
+        {
+            "caracter": "Flamel",
+            "text": "Comment ça, justement ? Bon, d’accord pour ceux-ci mais les autres que voilà (montrant les habitants de Nouaillé)."
+        },
+        {
+            "caracter": "Paysan 1",
+            "text": "Ah non, mais moi, il faut que je rentre mes vaches à l’étable."
+        },
+        {
+            "caracter": "Paysan 2",
+            "text": "Et moi que je leur donne à manger."
+        },
+        {
+            "caracter": "Noble 1",
+            "text": "Moi je ne suis pas très habile de mes mains."
+        },
+        {
+            "caracter": "Moine 3",
+            "text": "Mes frères et moi devons rejoindre l’abbaye, pour l’office du soir, allons- y promptement."
+        },
+        {
+            "caracter": "Tavernier",
+            "text": "Je dois ouvrir la taverne et préparer de quoi servir bonnes ripailles et mettre un tonneau en perce."
+        },
+        {
+            "caracter": "Paysanne 1",
+            "text": "Moi, la soupe est sur le feu et si je ne veux pas qu’elle brûle, je dois me dépêcher. Il manquerait plus que mon mari me batte."
+        },
+        {
+            "caracter": "Paysanne 2",
+            "text": "Ton bustarin de mari, ah, ah il sera trop soûl pour tenir debout, tu ne crains rien"
+        },
+        {
+            "caracter": "Tous",
+            "text": "Rires"
+        },
+        {
+            "caracter": "Paysan 3",
+            "text": "Moi, je vais mener ma jacquinette au champ ou, non, à l’étable. Oh et pis je ne sais plus."
+        },
+        {
+            "caracter": "Tous",
+            "text": "Oui, c’est cela, nous avons tous quelque chose à faire."
+        },
+        {
+            "caracter": "",
+            "text": "Et tout le monde se sauve vers ses scènes respectives"
+        },
+        {
+            "caracter": "Flamel",
+            "text": "Je ne vois donc qu’une solution, emmenez-moi tous ces marauds et tirlupins detoutes sortes, il y en aura bien quelques-uns qui pourront donner la main.(et il repart vers son laboratoire)"
+        },
+        {
+            "caracter": "",
+            "text": "Oui il a l’air fin comme du poil d’âne ce Flamel !"
+        },
+        {
+            "caracter": "",
+            "text": "Donc, en route vers la séparation des groupes"
+        }
+    ]
+}

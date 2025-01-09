@@ -1,0 +1,357 @@
+{
+    "title": "Scène 11 : Final",
+    "script": [
+        {
+            "caracter": "",
+            "text": "(Après avoir placé les groupes sur les gradins)"
+        },
+        {
+            "caracter": "Apprenti Acc1",
+            "text": "Alors les amis, vos apprentis sont-ils à la hauteur maintenant ? Et avez-vous avancé dans la recherche de menue monnaie pour remplir l’escarcelle du prince Philippe. ?"
+        },
+        {
+            "caracter": "Apprenti Acc 2",
+            "text": "Tu parles de menue monnaie, 3 millions d’écus d’or…."
+        },
+        {
+            "caracter": "Apprenti Acc 3",
+            "text": "Et encore, c’étaitquatre millions d’écus avant le traité de Brétigny, la rançon a été réduite …"
+        },
+        {
+            "caracter": "Apprenti Acc 4",
+            "text": "Ah formidable, plus que trois millions à payer, attendez-moi, je dois avoir cela sous ma paillasse.(faisant semblant de partir)"
+        },
+        {
+            "caracter": "Apprenti Acc 5",
+            "text": "Comme dit le prieur ça fait près de 255 quintaux d’or et deux annéesde recette fiscale…."
+        },
+        {
+            "caracter": "Apprenti Acc 6",
+            "text": "Et notre maitre qui n’a toujours pas réussi à transmuter le plomb en or !"
+        },
+        {
+            "caracter": "Apprenti Acc 7",
+            "text": "Il est d’ailleurs assez fâché ….. Et on sait à qui la faute…(regardant les spectateurs)"
+        },
+        {
+            "caracter": "Apprenti Acc 8",
+            "text": "Décidément cette bataille de 1356, ici même, nous aura bien fait du tort."
+        },
+        {
+            "caracter": "Apprenti Acc 9",
+            "text": "Avant nous étions Français et pauvres, maintenant nous voilà Anglois et très très pauvres."
+        },
+        {
+            "caracter": "Apprenti Acc 10",
+            "text": "Et endettés en plus… Si seulement nous avions gagné cette bataille, tout serait différent……"
+        },
+        {
+            "caracter": "Apprenti Acc 11",
+            "text": "Tu crois ça toi, tu es bien naïf (naïve) mon (ma) pauvre…"
+        },
+        {
+            "caracter": "Philippe",
+            "text": "(arrivant) Et bien quel est cet attroupement, vous êtes bien bruyants, de quoi parlez- vous ?"
+        },
+        {
+            "caracter": "Apprenti Acc 12",
+            "text": "Nous évoquions cette fameuse bataille du 19 septembre 1356 qui a eu lieu ici même il y a 5 ans. Et où vous avez combattu, prince Philippe, avecvotre père le Roi, et où il fut fait prisonnier. Même si vous avez dû la narrer déjà 100 fois, pourriez-vous nous la conter à nouveau ?"
+        },
+        {
+            "caracter": "Philippe",
+            "text": "Bien sûr, je peux vous la raconter, j’étais très jeune en 1356 , j’avais 14 ans, et je me suis retrouvé au milieu de la bataille ….. En septembre, Jean II, mon père, voulait intercepter l’ost Anglais mené par Le prince noir, fils du Roi d’Angleterre qui menait une campagne de pillage. Bien que le légat du pape, le Cardinal de Talleyrand-Périgord, ait tenté une médiation poursursoir au conflit, rien n’y fit, la bataille était inévitable. Et le matin du 19 septembre 1356 …."
+        },
+        {
+            "caracter": "",
+            "text": "BATAILLE DU 19 SEPTEMBRE 1356"
+        },
+        {
+            "caracter": "",
+            "text": "(Bataillecourte et onirique comme dans un rêve, Philippe se mêlant aux soldats … Avec bien sur l’image finale du roi et son fils)"
+        },
+        {
+            "caracter": "",
+            "text": "(Noir à la fin de la bataille, puis Arrive la foule ainsi que Froissard et Flamel, les soldats sont sortis)"
+        },
+        {
+            "caracter": "Froissart",
+            "text": "Ah Philippe ! Content de vous retrouver, on me dit que vous êtes sur le départ ?"
+        },
+        {
+            "caracter": "Philippe",
+            "text": "Oui,il me faut rejoindre Le roi Jean, mon père, nous devons faire ensemble le point sur la rançon. Et vérifier si la frappe de cette nouvelle monnaie, le franc à cheval, va bon train. Et j’ai appris qu’il a marié Isabelle ma jeune sœur de 14 ans au futur duc de Milan. Ce qui a rapporté 600 000 livres."
+        },
+        {
+            "caracter": "Apprentis A",
+            "text": "Voilà un sacré beau mariage …."
+        },
+        {
+            "caracter": "Froissart",
+            "text": "Nous allons vous regretter cher Prince."
+        },
+        {
+            "caracter": "Philippe",
+            "text": "Cette parenthèse à Nouaillé m’a fait le plus grand bien, mais je suis prisonnier de mes obligations et je ne peux m’y soustraire."
+        },
+        {
+            "caracter": "",
+            "text": "(Entre en trombe la troupe de moines)"
+        },
+        {
+            "caracter": "Moine 1",
+            "text": "Mes amis, mes amis, désolé d’interrompre vos seigneuries, mais ce que nous avons découvert est d’une très grande importance."
+        },
+        {
+            "caracter": "Moine 2",
+            "text": "Regardez, là, dans la marge de ce feuillet qui était glissé dans le livre que nous a confié Nicolas Flamel, un écrit est apparu alors que nous avons rapproché le parchemin de la flamme d’une bougie, pour mieux le lire."
+        },
+        {
+            "caracter": "Moine 3",
+            "text": "Et regardez la signature JDM, et la date …."
+        },
+        {
+            "caracter": "Froissart",
+            "text": "12 octobre 1307, la veille de l’arrestation des templiers et JDM, seraient-ce là les initiales de Jacques de Molay ?"
+        },
+        {
+            "caracter": "Flamel",
+            "text": "On dit que les templiers se savaient menacés, et que le secret de leur arrestation le vendredi 13 octobre aurait été éventé."
+        },
+        {
+            "caracter": "Apprentis B",
+            "text": "Voilà un vendredi 13 qui ne leur a pas porté chance."
+        },
+        {
+            "caracter": "Moine 4",
+            "text": "Et dans l’urgence Jacques de Molay aurait écrit ce message caché…. (Brouhaha de la foule)…"
+        },
+        {
+            "caracter": "Froissart",
+            "text": "Voyons, un peu de calme, laissez-moi lire cela : « Réunis les 4 éléments et tu auras la réponse au pied du mur. Même en cendres, St Junien pourra t’aider. »(Il réfléchit)même en cendres St Junien pourra t’aider."
+        },
+        {
+            "caracter": "Bourgeoise 1",
+            "text": "Mais ce sont bien les reliques de St Junien qui sont gardées en notre abbaye, n’est-ce-pas ?"
+        },
+        {
+            "caracter": "Bourgeois 2",
+            "text": "Jacques de Molay parlerait donc de Nouaillé ? (brouhaha de la foule)"
+        },
+        {
+            "caracter": "Froissard",
+            "text": "Et que dire de cette énigme ?…"
+        },
+        {
+            "caracter": "Flamel",
+            "text": "Réunir les 4 éléments : L’eau, la terre le feu et l’air… On ne va obtenir qu’un beau brouet de boue."
+        },
+        {
+            "caracter": "Paysan 1",
+            "text": "On ne va tout de même pas remuer toute la terre de Nouaillé ou plonger et draguer tout le Miosson …."
+        },
+        {
+            "caracter": "Froissart",
+            "text": "Réfléchissons tous, c’est important …. Pourquoi réunir les 4 éléments …. Allez les apprentis … montrez que vous pouvez être utiles…"
+        },
+        {
+            "caracter": "Flamel",
+            "text": "Et pour une fois proposez des idées…. (Tous réfléchissent et poussent les spectateurs à réfléchir)"
+        },
+        {
+            "caracter": "Apprenti B",
+            "text": "(Avec l’aide des spectateurs) Peut être que Jacques de Molay parle des symboles des 4 éléments."
+        },
+        {
+            "caracter": "Apprenti A",
+            "text": "Pas des éléments eux-mêmes."
+        },
+        {
+            "caracter": "Paysanne 2",
+            "text": "C’est quoi les symboles des 4 éléments ? A quoi ils ressemblent (on aura pu donner aux chefs de groupes au départ, les symboles des éléments qu’ils représentent, ce qui fait qu’ils peuvent redonner ces éléments aux apprentis pour qu’ils les réunissent)….."
+        },
+        {
+            "caracter": "Apprenti A",
+            "text": "Et ça donne quoi en réunissant ces 4 symboles ….(Les apprentisessayent de réunir les 4 symboles ; puis au bout d’un moment …) Une étoile."
+        },
+        {
+            "caracter": "Tous",
+            "text": "Une étoile ….."
+        },
+        {
+            "caracter": "Paysanne 2",
+            "text": "Pourquoi une étoile ?"
+        },
+        {
+            "caracter": "Froissart",
+            "text": "Est-ce que ça aurait un rapport avec l’étoile gravée sur le vieux mur ?"
+        },
+        {
+            "caracter": "Tous",
+            "text": "Le vieux mur ….. (Tous se tournent vers le vieux mur)"
+        },
+        {
+            "caracter": "Moine 3",
+            "text": "(lisant le parchemin) C’est écrit : « Tu auras la réponse au pied du mur.. »"
+        },
+        {
+            "caracter": "Froissart",
+            "text": "écartez-vous ……Insérez notre l’étoile dans l’étoile en creux au milieu de ce mur."
+        },
+        {
+            "caracter": "",
+            "text": "(Froissart va à l’étoile gravée sur le mur, la touche puis appuie en son centre, l’étoile bouge, le mur s’ouvre Ahhhhh de la foule)."
+        },
+        {
+            "caracter": "Flamel",
+            "text": "Nous l’avons trouvée, c’est bien une partie du trésor des templiers certainement cachée là,peu de temps avant leur arrestation. (Congratulations de tous)"
+        },
+        {
+            "caracter": "Moine 2",
+            "text": "Voilà un trésor qui va faire du bien pour réparer notre abbaye et même l’agrandir."
+        },
+        {
+            "caracter": "Paysan 3",
+            "text": "Ce trésor nous servirait bien mieux, pour enfin manger à notre faim. Les pierres, elles, peuvent attendre."
+        },
+        {
+            "caracter": "Paysanne 2",
+            "text": "Elles n’ont pas leur ventre qui gargouille, elles."
+        },
+        {
+            "caracter": "Bourgeois 3",
+            "text": "C’est nous qui faisons vivre les serfs grâce à nos terres que nous leur prêtons ou louons …"
+        },
+        {
+            "caracter": "Bourgeoise 1",
+            "text": "C’est à nous que profiterait le mieux cet argent, pour faire vivre la paysannerie."
+        },
+        {
+            "caracter": "",
+            "text": "(Brouhaha de tous)."
+        },
+        {
+            "caracter": "",
+            "text": "(Arrive à vive allure une troupe de brigands, menée par Gauvain, soldat de la garde de Philippe. Ils encerclent les habitants de Nouaillé, tenant en otage Finette … bousculade)"
+        },
+        {
+            "caracter": "Gauvain",
+            "text": "Mais non nous avons une meilleure idée pour utiliser ce trésor ….. Nous libérons Finette,à laquelle vous portez, chère Prince, grande amitié et vous nous remettez cet argent en échange Sinon nous ne garantissons pas sa sauveté …"
+        },
+        {
+            "caracter": "Bourgeoise 1",
+            "text": "Mais c’est de la briganderie…."
+        },
+        {
+            "caracter": "Brigand 2",
+            "text": "Ohhhhh , fine observation belle dame …."
+        },
+        {
+            "caracter": "Philippe",
+            "text": "Gauvain, c’est toi ? Tu as déserté pour devenir un vulgaire coupe-jarret ?"
+        },
+        {
+            "caracter": "Gauvain",
+            "text": "Oui prince, j’ai décidé de me battre pour moi, et pas pour un roi stupide qui n’a rien à faire des petites gens. Et avec cet argent, nous allons rejoindre le mercenaire Seguin de Badefol et continuer à piller villes et châteauxdans les montagnes d’Auvergne …"
+        },
+        {
+            "caracter": "Finette",
+            "text": "Vils pourceaux… Qui ne pensez qu’à vous-mêmes… Retournez dans la fange que vous n’auriez pas dû quitter"
+        },
+        {
+            "caracter": "",
+            "text": "(elle se débat) …"
+        },
+        {
+            "caracter": "Brigand 4",
+            "text": "Hola, mais que voilà de vilains mots …."
+        },
+        {
+            "caracter": "Brigand 3",
+            "text": "Alors votre décision ? …. Vous nous donnez cet argent de votre plein gré ou nous le prenons par la force …."
+        },
+        {
+            "caracter": "Philippe",
+            "text": "Et ma troupe de fidèles soldats qui est restée au camp …. Nous ne pouvons pas les prévenir. Ils sont trop loin du village…."
+        },
+        {
+            "caracter": "Jeune Enfant",
+            "text": "(Arborant une corne accrochée à sa ceinture …..) Ceci peut nous être utile… je m’en sers contre les loups …. Mais cette corne peut être aussi efficace contre les brigands …."
+        },
+        {
+            "caracter": "",
+            "text": "(Il ou elle souffle et fait résonner la corne)."
+        },
+        {
+            "caracter": "Brigand 4",
+            "text": "Que fais-tu, toi ? Donne-moi ça … (l’enfant donne un coup de pied au brigand qui crie de douleur)"
+        },
+        {
+            "caracter": "Jeune Enfant",
+            "text": "On ne va pas se laisser faire, on va sauver Finette"
+        },
+        {
+            "caracter": "",
+            "text": "BAGARRE POUR FINETTE"
+        },
+        {
+            "caracter": "",
+            "text": "(bagarregénérale, tout d’abord entre les brigand et toute la foule des habitants de Nouaille, enfants, bourgeois , paysans , moines, apprentis , puis arrivent les soldats qui finissent le travail, et font sortir les brigands prisonniers, cris de joies de tous )"
+        },
+        {
+            "caracter": "Finette",
+            "text": "Ah, merci à vous tous, de vous être battus pour moi …. Et aussi un peu pour sauver le trésor …."
+        },
+        {
+            "caracter": "Prieur",
+            "text": "Etre riche attise toutes les convoitises et attire les ennuis, mieux vaut rester comme nous sommes, et donner ce trésor à notre Prince."
+        },
+        {
+            "caracter": "Froissart",
+            "text": "Nous avions promis à Philippe de l’aider, c’est effectivement à lui que doit revenir cet argent,ce ne sera qu’une petite partie de la rançon, mais ce sera notre contribution à la libération de notre roi. (ohhh)"
+        },
+        {
+            "caracter": "Philippe",
+            "text": "Merci les amis …….. Et bravo à tous, d’avoir su réunir vos forces pour libérer Finette…."
+        },
+        {
+            "caracter": "Flamel",
+            "text": "Dans l’adversité, les Hommes deviennent plus solidaires et oublient leurs différents et leurs différences pour se rassembler."
+        },
+        {
+            "caracter": "Philippe",
+            "text": "Je sais que chacun de vous aurait eu besoin de ce trésor, même une toute petite partie…. J’accepte cependantcet or, pour libérer mon père"
+        },
+        {
+            "caracter": "Bourgeoise 1",
+            "text": "Et nous espérons tous que le roi pourra réunir la totalité de sa rançon. Et que ce franc nouvellement créé vivra longtemps."
+        },
+        {
+            "caracter": "Philippe",
+            "text": "Seule l’histoire nous dira ce que deviendra ce franc à cheval, qui est en fait né sur les terres de Nouaillé. A nous de l’écrire cette grande Histoire. En espérant que cette guerre prenne vite fin et qu’elle soit la dernière."
+        },
+        {
+            "caracter": "Froissart",
+            "text": "Comptez sur moi pour relater les faits historiques de notre époque avec la plus grande des rigueurs. Les historiens qui me succéderont en feront de même, car qui veut construire l’avenir doit se souvenir de son passé…"
+        },
+        {
+            "caracter": "Flamel",
+            "text": "Je n’ai pas réussi cette fois, mais je poursuivrai sans relâche mes recherches. Découvrir encore et comprendre resteront l’objet de ma quête."
+        },
+        {
+            "caracter": "Enfant 1",
+            "text": "Chacun cherche son trésor. Pour beaucoup ce sont les richesses et l’or, mais pour d’autres ce seront la connaissance, le savoir, la santé, la tolérance."
+        },
+        {
+            "caracter": "Enfant 2",
+            "text": "Pour d’autres encore ce seront la liberté, l’amitié ou l’amour, ou tout simplement la vie."
+        },
+        {
+            "caracter": "Philippe",
+            "text": "Mes deux séjours ici auront bouleversé ma vie et celle de mon pays. Alors avant de partir j’aimerais célébrer les accueillantes et bonnes personnes que vous êtes. Que l’on soit manant ou roi, pauvre ou riche, soldat, moine, jeune ou vieux, la plus grande richesse... c’est le bonheur… Ainsi, pour l’heure, réjouissons-nous d’être ensembleTous ensemble."
+        },
+        {
+            "caracter": "",
+            "text": "FETE FINALE (Danse, chant et feu)"
+        }
+    ]
+}

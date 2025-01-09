@@ -1,0 +1,201 @@
+{
+    "title": "Scène 7 : Philippe et son escorte",
+    "script": [
+        {
+            "caracter": "Apprenti Acc 1",
+            "text": "J’entends des voix, sûrement des paysans, par ici !"
+        },
+        {
+            "caracter": "Apprenti Acc 2",
+            "text": "Non point des paysans mais notre prince ! Ne restons pas là, partons !"
+        },
+        {
+            "caracter": "Apprenti Acc 1",
+            "text": "Attends ! Tu ne veux pas écouter un peu… Savoir pourquoi il est ici ?"
+        },
+        {
+            "caracter": "Apprenti Acc 2",
+            "text": "Espionner notre prince … ? ... Juste un peu alors…"
+        },
+        {
+            "caracter": "Pierre",
+            "text": "Philippe, êtes-vous sûr que la personne que nous attendons viendra ?"
+        },
+        {
+            "caracter": "Philippe",
+            "text": "J’en suis sûr, elle viendra."
+        },
+        {
+            "caracter": "Gauvain",
+            "text": "Elle ?! Nous attendons une donzelle ?"
+        },
+        {
+            "caracter": "Audoin",
+            "text": "Bien sûr que nous attendons une femme !"
+        },
+        {
+            "caracter": "Pierre",
+            "text": "Tu pensais que nous attendions qui ?"
+        },
+        {
+            "caracter": "Gauvain",
+            "text": "Je pensais que nous étions là pour récolter quelques informations sur la rançon du roi ou sur ce trésor des templiers. Pas pour rencontrer des femelles malfaisantes, perverses et inutiles."
+        },
+        {
+            "caracter": "Audoin",
+            "text": "Elles sont loin d’être inutiles,bien au contraire !"
+        },
+        {
+            "caracter": "Pierre",
+            "text": "La mienne est tout sauf cela, elle est douce, gentille et serviable…"
+        },
+        {
+            "caracter": "Gauvain",
+            "text": "Elle ne fait que te distraire dans ta mission qui est de servir ton roi ! Elle est perfide comme toutes celles de sa race !"
+        },
+        {
+            "caracter": "Pierre",
+            "text": "Sortant son épéeMa femme ? Perfide ?Certains hommes peuvent aussi être perfides !"
+        },
+        {
+            "caracter": "Philippe",
+            "text": "Assez ! Entrainons-nous en attendant sa venue. Gauvain, surveillez les autours. Pierre, Audoin, contre moi."
+        },
+        {
+            "caracter": "",
+            "text": "(Combat deux contre un – Arrivent par l’arrière, deux jeunes femmes)"
+        },
+        {
+            "caracter": "Malvina",
+            "text": "Es-tu sur que nous sommes attendues ?"
+        },
+        {
+            "caracter": "Finette",
+            "text": "Je te l’ai déjà dit, Philippe m’attend. Mais si tu as peur, ne viens pas !"
+        },
+        {
+            "caracter": "Malvina",
+            "text": "Et ne pas voir ce beau prince et tous les soldats qui l’accompagnent ?"
+        },
+        {
+            "caracter": "Gauvain",
+            "text": "Que venez-vous faire par ici les gueuses ?"
+        },
+        {
+            "caracter": "Malvina",
+            "text": "Elle, elle vient voir votre prince et moi, je viens voir… Vous autres…"
+        },
+        {
+            "caracter": "Philippe",
+            "text": "Finette te voilà, je suis heureux de teretrouver."
+        },
+        {
+            "caracter": "Finette",
+            "text": "Philippe, j’attends ce moment depuis longtemps…"
+        },
+        {
+            "caracter": "Philippe",
+            "text": "Je vous présente Finette, je l’ai rencontrée à la veille de la bataille de Nouaillé et depuis nous sommes devenus bons amis."
+        },
+        {
+            "caracter": "Finette",
+            "text": "Mon père est tavernier, nous avons eu l’honneur de servir l’armée du roi, c’est ainsi que j’ai croisé Philippe. Je lui ai servi à boire, nous avons échangé quelques mots et nous sommes depuis… amis."
+        },
+        {
+            "caracter": "Gauvain",
+            "text": "Amis ? Mais que veut dire « ami » ? Philippe, vous devriez vous concentrer sur votre mission et non sur ces bonnes à rien de femmes, sources de tous nos malheurs !"
+        },
+        {
+            "caracter": "Audoin",
+            "text": "Sources de tous les bonheurs surtout !"
+        },
+        {
+            "caracter": "Gauvain",
+            "text": "La maladie, la famine, ce sont des bonheurs pour toi ? Et la guerre ?"
+        },
+        {
+            "caracter": "Finette",
+            "text": "Ce sont les hommes qui se battent et qui s’entretuent pour un morceau de terre…"
+        },
+        {
+            "caracter": "Malvina",
+            "text": "Provoquant la misère et la famine ! Pas les femmes !"
+        },
+        {
+            "caracter": "Gauvain",
+            "text": "Si Aliénor d’Aquitaine n’était pas allée batifolerdans les couches Angloises, nous n’aurions pas eu besoin de nous battre !"
+        },
+        {
+            "caracter": "Finette",
+            "text": "Si les hommes n’avaient pas arrêté et brulé vif les templiers, Jacques de Molay n’aurait pas jeté cette malédiction…"
+        },
+        {
+            "caracter": "Malvina",
+            "text": "Et cette guerre n’aurait pas commencé !"
+        },
+        {
+            "caracter": "Audoin",
+            "text": "Il est vrai que sans cette malédiction, nous aurions eu un descendant et le roi d’Angleterre n’aurait pas eu l’occasion de revendiquer le trône de France."
+        },
+        {
+            "caracter": "Philippe",
+            "text": "Peu importent les raisons de ces guerres, elles ont eu lieu et nous sommes ici pour payer ce que nous devons, en Francs ou autre monnaie."
+        },
+        {
+            "caracter": "Pierre",
+            "text": "Si nous trouvions ce trésor que les templiers ont caché, notre mission s’achèverait rapidement."
+        },
+        {
+            "caracter": "Audoin",
+            "text": "Et nous pourrions nous intéresser à des missions plus importantes ! Se rapprochant de Malvina"
+        },
+        {
+            "caracter": "Malvina",
+            "text": "Et vous pourriez ainsi être libre ! Et épouser Finette !"
+        },
+        {
+            "caracter": "Tous",
+            "text": "L’épouser ?"
+        },
+        {
+            "caracter": "Audoin",
+            "text": "Cela lui est impossible !"
+        },
+        {
+            "caracter": "Gauvain",
+            "text": "Notre prince ne peut pas épouser une gueuse !"
+        },
+        {
+            "caracter": "Pierre",
+            "text": "En tant que prince il se doit de faire bon mariage."
+        },
+        {
+            "caracter": "Malvina",
+            "text": "Pourtant, son frère Louis a épousé Marie de Blois sans autorisation !"
+        },
+        {
+            "caracter": "Philippe",
+            "text": "Je ne suis pas comme mon frère ! Je ne suis pas libre, j’ai des devoirs en tant que prince et je me dois de les respecter. Tout le peuple parle de richesse, d’or et de pouvoir, mais y a-t-il une richesse plus forte que la liberté? Je donnerais tout ce que j’ai pour vivre comme je le souhaite… Mais je suis né prince et je me dois de rester fidèle à mon titre, même si cela me coûte.Finette est mon amie et je ne peux éprouver d’autres sentiments. Cela m’est interdit."
+        },
+        {
+            "caracter": "Finette",
+            "text": "Je ne le sais que trop bien mon prince. Vous ferez toujours passer vos devoirs et le bien-être de vos gens avant le vôtre. Ne pensons plus à tout cela, vous comme moi savons que nous n’avons pas de futur commun, alors profitons de ces quelques instants qui nous sont accordés et allons discuter à l’écart. (Ils partent)"
+        },
+        {
+            "caracter": "Gauvain",
+            "text": "L’amitié ?La richesse de la liberté ? Billevesées que tout cela ! La seule vraie richesse qui existe est l’honneur ! L’honneur de se battre pour son roi, l’honneur de mourir pour lui au combat! Enfin du moins je le pensais."
+        },
+        {
+            "caracter": "Audoin",
+            "text": "Moi je peux me contenter de richesses beaucoup plus simples…"
+        },
+        {
+            "caracter": "Malvina",
+            "text": "Et de richesses beaucoup plus savoureuses…"
+        },
+        {
+            "caracter": "Apprenti Acc 1",
+            "text": "Je crois que nous en avons assez vu ! Ils semblent tous bien occupés et nous ne trouverons rien ici. Partons !"
+        }
+    ]
+}

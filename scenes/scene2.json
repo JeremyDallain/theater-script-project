@@ -1,0 +1,129 @@
+{
+  "title": "Scène 2",
+  "script": [
+    {
+      "caracter": "",
+      "text": "Les spectateurs sont installés dans la rue entre la place du souvenir et le clos des remparts par les apprentis."
+    },
+    {
+      "caracter": "",
+      "text": "Au fond du pré, on aperçoit l’atelier de campagne de Nicolas Flamel. Ce dernier s’agite ou s’occupe dans son atelier avec un de ses apprentis. Il peut même s’énerver un peu contre ses apprentis (à voir)"
+    },
+    {
+      "caracter": "Apprenti 1",
+      "text": "Allez, allez, installez-vous le long de ce muret."
+    },
+    {
+      "caracter": "Apprenti 2",
+      "text": "On aperçoit notre maître qui s’active dans son atelier."
+    },
+    {
+      "caracter": "Apprenti 3",
+      "text": "Oui et il semble un peu énervé, comme à son habitude d’ailleurs"
+    },
+    {
+      "caracter": "Apprenti 2",
+      "text": "Mais non, mais non, il se demande simplement s’il n’a pas besoin de nouveaux apprentis, hein vous autres ?(en s’adressant à ses compagnons et en regardant les spectateurs)"
+    },
+    {
+      "caracter": "",
+      "text": "Le Prince Philippe apparait côté jardin et Jean Froissart côté cour. Ils se rencontrent au niveau des bastings."
+    },
+    {
+      "caracter": "Philippe",
+      "text": "Et bien JeanFroissart, vous voilà revenu sur les terres de vos chroniques. Vous avez encore à écrire sur cette maudite bataille ?"
+    },
+    {
+      "caracter": "Froissart",
+      "text": "Rien en ce qui concerne la bataille, Votre Altesse, mais ce qu’il advient depuis ce funeste moment doit être consigné pour la postérité."
+    },
+    {
+      "caracter": "Philippe",
+      "text": "Et vous pensez que cela en vaut la peine ? Je crois que la bataille suffit. Certes, nous nous sommes bien battus, mais, malgré nos forces supérieures en nombre, nous avons dû céder face aux Anglais. Le roi mon père, et moi n’avons pu éviter la défaite et l’humiliation."
+    },
+    {
+      "caracter": "Froissart",
+      "text": "CependantPrince Philippe, il faut bien comprendre où nous en sommes maintenant. Le traité de Brétigny a ouvert la porte à la libération de notre bon roi Jean."
+    },
+    {
+      "caracter": "Philippe",
+      "text": "Oui mais à quel prix ; la perte de la moitié de notre territoire au profit de la couronne d’Angleterre et surtout cette rançon de 3 millions d’écus. Où allons-nous trouver cet argent ?"
+    },
+    {
+      "caracter": "Froissart",
+      "text": "Votre Père, le Roi Jean, apour l’heureété libéré et remplacé par vos frères Louis et Jean dans les geôles anglaises. Il va trouver des solutions. J’ai entendu dire qu’il projetait de frapper une nouvellemonnaie pour se rendre définitivement franc de l’Anglois."
+    },
+    {
+      "caracter": "Philippe",
+      "text": "Nous pouvons aussi faire appel à la générosité du peuple et des plus fortunés. C’est la raison pour laquelle je parcours le royaume afin de m‘entretenir avec nos vassaux. Et éventuellement nous envisagerons de nouvelles taxes."
+    },
+    {
+      "caracter": "Froissart",
+      "text": "Mais, il me semble apercevoir mon ami Nicolas Flamel qui vient vers nous. Il a installé son atelier de campagne à Nouaillé. Il semblerait qu’il fasse quelques recherches en alchimie avec l’espoir de transmuter le vil métal en or."
+    },
+    {
+      "caracter": "Philippe",
+      "text": "Et bien monsieur Flamel, mon ami Froissart, que vous connaissez bien, me dit que vous espérez donc changer le vil métal en or."
+    },
+    {
+      "caracter": "Flamel",
+      "text": "Certes Votre Altesse, ces recherches me passionnent et j’espère, comme tout alchimiste, réussir le grand œuvre et trouver la pierre philosophale."
+    },
+    {
+      "caracter": "Froissart",
+      "text": "Le grand œuvre, la pierre philosophale, que de formules étranges, ne trouvezvous pas ?"
+    },
+    {
+      "caracter": "Flamel",
+      "text": "Pour réussir la transmutation du métal en or, il faut réussir à fabriquer la pierre philosophale. C’est cette réalisation que nous appelons le grand œuvre. Les vils métaux étant constitués essentiellement de soufre et de mercure, il est, semble-t-il possible de les transformer en or ou en argent grâce à cet élixir philosophal."
+    },
+    {
+      "caracter": "Philippe",
+      "text": "Il serait bon que vous arriviez vite à vos fins. Cela apporterait solution à la libération du roi, mon père. 3 millions d’écus d’or seraient les bienvenus. N’est-ce point vrai, Froissart ?"
+    },
+    {
+      "caracter": "Froissart",
+      "text": "Si fait Votre Altesse, mais je crains qu’il faille plus de temps à notre ami pour trouver la solution."
+    },
+    {
+      "caracter": "Flamel",
+      "text": "Il est vrai, Monseigneur, que la chose n’est pas simple. Depuis les premiers écrits alchimiques de l’antiquité, des centaines d’années sont passées. Mais un autre objectif de l’alchimie est aussi de fabriquer l’élixir de longue vie qui aurait la vertu de prolonger indéfiniment notre existence."
+    },
+    {
+      "caracter": "Froissart",
+      "text": "(Un peu ironique) Vous auriez ainsi tout le temps nécessaire pour poursuivre vos travaux ! Mais, ne vous faudrait-il pas plus d’apprentis pour vous assister dans votre labeur? Assurément, il serait bon pour vous de quémander l’aide de moult coquins délurés et énergiques."
+    },
+    {
+      "caracter": "Flamel",
+      "text": "Certes mon ami, et je vois là (montrant les spectateurs), un grand nombre de jeunes gaillards et de braves jouvencelles qui pourraient me venir en aide."
+    },
+    {
+      "caracter": "",
+      "text": "(S’adressant à un ou deux de ses apprentis) Dites-moi vous autres, dénichez donc trois ou quatre de ceux-là qui vous paraitront faire l’affaire etenvoyez- les moi promptement."
+    },
+    {
+      "caracter": "",
+      "text": "(S’adressant à Philippe et Froissard) Maintenant, je vais devoir vous quitter pour me remettre à l’ouvrage. Mais à l’occasion je vous invite à venir en mon atelier si vous le souhaitez."
+    },
+    {
+      "caracter": "Philippe",
+      "text": "Eh bien, mon ami, je suis certain que vos recherches vont aboutir. Le Royaume a confiance en vous et vous apportera tantostl’aidement dont vous avez besoin, si vos premiers pas sont encourageants. Remettez-vous au travail prestement."
+    },
+    {
+      "caracter": "",
+      "text": "Arrivent alors des habitants de toutes sortes et tous acabits, jeunes, vieux, enfants, riches ou pauvres. La population de Nouaillé quoi !"
+    },
+    {
+      "caracter": "Philippe",
+      "text": "Mais dites-moi, Froissart, que veulent ces gens ?"
+    },
+    {
+      "caracter": "Froissart",
+      "text": "Ils désirent certainement en savoir plus sur cette histoire de rançon à verser pour libérer votre Père."
+    },
+    {
+      "caracter": "Philippe",
+      "text": "Ecoutons-les alors, voulez-vous ! (il est bien ce Prince, non !!!)"
+    }
+  ]
+}
