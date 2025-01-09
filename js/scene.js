@@ -29,7 +29,7 @@ function generateSceneHTML(playTitle, scene, role) {
   const backLink = document.createElement("a");
   backLink.href = "index.html";
   backLink.classList.add("backlink");
-  backLink.textContent = "⬅";
+  backLink.textContent = "<";
   app.appendChild(backLink);
 
   const title = document.createElement("h1");

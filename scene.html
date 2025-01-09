@@ -81,12 +81,23 @@
       }
 
       .backlink {
+        position: relative;
+        top: 10px;
         text-decoration: none;
-        color: black;
-        font-size: 25px;
-        padding: 3px 5px;
-        border-radius: 30%;
-        border: 1px solid black;
+        padding: 8px 15px;
+        border-radius: 8px;
+        border: 2px solid #ddd;
+        background-color: #fff;
+        color: #000000;
+        transition: all 0.3s ease;
+        font-size: 1.2rem;
+      }
+
+      /* Effet au survol */
+      .backlink:hover {
+        background-color: #000000;
+        color: #fff;
+        border-color: #000000;
       }
     </style>
     <script type="module" src="/js/scene.js" defer></script>
