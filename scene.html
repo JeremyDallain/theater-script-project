@@ -1,33 +1,77 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Scène</title>
     <style>
-        p {
-            margin: 0;
-        }
-        .replica {
-            margin-block: 10px;
-        }
-        
-        .description {
-            font-style: italic;
-            color: grey;
-        }
+      p {
+        margin: 0;
+      }
+      .replica {
+        margin-block: 10px;
+      }
 
-        .before-main-caracter span, .before-main-caracter p{
-            background: rgb(232, 232, 232);
-        }
+      .description {
+        font-style: italic;
+        color: grey;
+      }
 
-        .main-caracter span, .main-caracter p{
-            background: rgb(161, 210, 161);
-        }
+      .before-main-caracter span,
+      .before-main-caracter p {
+        background: rgb(232, 232, 232);
+      }
+
+      .main-caracter span,
+      .main-caracter p {
+        background: rgb(161, 210, 161);
+      }
+
+      /* Cache blanc */
+      #cache {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        height: 50%;
+        background-color: rgba(0, 0, 0, 0.972);
+        z-index: 1000;
+        transition: opacity 0.3s ease;
+      }
+
+      #cache.hidden {
+        opacity: 0;
+        pointer-events: none;
+      }
+
+      #cache.visible {
+        opacity: 1;
+        pointer-events: all;
+      }
+
+      /* Contenu avec marge en bas */
+      #app {
+        margin-bottom: 50vh; /* Marge équivalente à la hauteur du cache */
+      }
     </style>
     <script type="module" src="/js/scene.js" defer></script>
-</head>
-<body>
+  </head>
+  <body>
+    <div id="cache" class="hidden"></div>
     <div id="app"></div>
-</body>
+    <br>
+    <script>
+      // Gestion du cache
+      document.body.addEventListener("dblclick", () => {
+        const cache = document.getElementById("cache");
+        if (cache.classList.contains("hidden")) {
+          cache.classList.remove("hidden");
+          cache.classList.add("visible");
+        } else {
+          cache.classList.remove("visible");
+          cache.classList.add("hidden");
+        }
+      });
+    </script>
+  </body>
 </html>
