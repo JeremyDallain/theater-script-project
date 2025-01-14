@@ -29,11 +29,11 @@ function generateSceneHTML(playTitle, scene, role) {
   const backLink = document.createElement("a");
   backLink.href = "index.html";
   backLink.classList.add("backlink");
-  backLink.textContent = "<";
+  backLink.innerHTML = "<";
   app.appendChild(backLink);
 
   const title = document.createElement("h1");
-  title.textContent = `${playTitle} - ${scene.title}`;
+  title.innerHTML = `${playTitle} - ${scene.title}`;
   app.appendChild(title);
 
   let previousDiv = null;
@@ -47,13 +47,13 @@ function generateSceneHTML(playTitle, scene, role) {
     if (line.caracter === "") {
       div.classList.add("description");
       const p = document.createElement("p");
-      p.textContent = line.text;
+      p.innerHTML = line.text;
       div.appendChild(p);
     } else {
       const span = document.createElement("span");
-      span.textContent = line.caracter;
+      span.innerHTML = line.caracter;
       const p = document.createElement("p");
-      p.textContent = line.text;
+      p.innerHTML = line.text;
 
       div.appendChild(span);
       div.appendChild(p);
@@ -74,5 +74,5 @@ function generateSceneHTML(playTitle, scene, role) {
 
 function displayError(message) {
   const app = document.getElementById("app");
-  app.textContent = message;
+  app.innerHTML = message;
 }

@@ -29,7 +29,7 @@
           },
           {
             "caracter": "Apprenti 2",
-            "text": "Mais non, mais non, il se demande simplement s’il n’a pas besoin de nouveaux apprentis, hein vous autres ?(en s’adressant à ses compagnons et en regardant les spectateurs)"
+            "text": "Mais non, mais non, il se demande simplement s’il n’a pas besoin de nouveaux apprentis, hein vous autres ?<span class=\"description\">(en s’adressant à ses compagnons et en regardant les spectateurs)</span>"
           },
           {
             "caracter": "",
@@ -101,15 +101,7 @@
           },
           {
             "caracter": "Flamel",
-            "text": "Certes mon ami, et je vois là (montrant les spectateurs), un grand nombre de jeunes gaillards et de braves jouvencelles qui pourraient me venir en aide."
-          },
-          {
-            "caracter": "",
-            "text": "(S’adressant à un ou deux de ses apprentis) Dites-moi vous autres, dénichez donc trois ou quatre de ceux-là qui vous paraitront faire l’affaire etenvoyez- les moi promptement."
-          },
-          {
-            "caracter": "",
-            "text": "(S’adressant à Philippe et Froissard) Maintenant, je vais devoir vous quitter pour me remettre à l’ouvrage. Mais à l’occasion je vous invite à venir en mon atelier si vous le souhaitez."
+            "text": "Certes mon ami, et je vois là <span class=\"description\">(montrant les spectateurs)</span>, un grand nombre de jeunes gaillards et de braves jouvencelles qui pourraient me venir en aide.<br><span class=\"description\">(S’adressant à un ou deux de ses apprentis)</span> Dites-moi vous autres, dénichez donc trois ou quatre de ceux-là qui vous paraitront faire l’affaire etenvoyez- les moi promptement.<br><span class=\"description\">(S’adressant à Philippe et Froissard)</span> Maintenant, je vais devoir vous quitter pour me remettre à l’ouvrage. Mais à l’occasion je vous invite à venir en mon atelier si vous le souhaitez."
           },
           {
             "caracter": "Philippe",
@@ -223,7 +215,7 @@
           },
           {
             "caracter": "Finette",
-            "text": "(S’approchant de Philippe) Prince Philippe, avez-vous souvenance de moi ? Je suis Finette."
+            "text": "<span class=\"description\">(S’approchant de Philippe)</span> Prince Philippe, avez-vous souvenance de moi ? Je suis Finette."
           },
           {
             "caracter": "Philippe",
@@ -389,7 +381,7 @@
           },
           {
             "caracter": "Pierre",
-            "text": "Sortant son épéeMa femme ? Perfide ?Certains hommes peuvent aussi être perfides !"
+            "text": "<span class=\"description\">(Sortant son épée)</span> Ma femme ? Perfide ?Certains hommes peuvent aussi être perfides !"
           },
           {
             "caracter": "Philippe",
